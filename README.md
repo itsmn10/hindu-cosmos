@@ -1,3 +1,4 @@
+   **Live 3D version:** https://itsmn10.github.io/hindu-cosmos/
 # Hindu cosmos, animated
 
 An animated map of the Hindu cosmos in Python, based on the common Puranic model.
